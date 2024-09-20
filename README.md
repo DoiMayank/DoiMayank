@@ -42,7 +42,7 @@ Hello! I'm **Mayank Doi**, a **GIS Developer** with a passion for Geographic Inf
 
 I'm always looking to connect with like-minded professionals, whether you're in the GIS field or a fellow developer. Let's collaborate, learn from each other, and create something amazing!
 
-- **[LinkedIn](https://linkedin.com/in/DoiMayank)**
+- **[LinkedIn](https://www.linkedin.com/in/mayank-doi/)**
 - **[Twitter](https://x.com/mayank_doi)**
 - **[Email](mailto:doi.mayank@gmail.com)**
 
